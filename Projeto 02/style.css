@@ -1,0 +1,76 @@
+image {
+    width: 33px;
+    height: 48px;
+} 
+
+/* tentei mas nn consegui :( */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+    margin-top: 64px;
+    width: 1024px;
+    height: 790;
+    /* Escolhi deixar a pagina com tamanho fixado pois estava com dificuldade de manter o alinhamento dos demais itens durante o processo e eu queria achar alguma maneira alternativa para esse problema, talvez não tenha sido tão pratico mas me ajudou a finalizar o projeto e acredito q no futuro eu vá fazer alguma alteração no programa, vlw equipe da rocketseat. Abraço! */
+}
+
+.world {
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+
+    margin-bottom: 16px;
+}
+
+#main p {
+    color: #828282;
+
+    font-size: 15px;
+    width: 540px;
+    margin-left: 249px;
+}
+
+strong, a {
+    color: #3F3D56;
+}
+
+#main h1 span {
+    color: #EE24FF;
+}
+
+#text {
+    margin-top: 32px;
+    margin-bottom: 80px;
+}
+
+
+#footer {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#line {
+    width: 391px;
+    height: 0px;
+
+    margin: auto;
+    margin-bottom: 16px;
+
+    border: 1px solid #ECEFF2;
+}
+
+a + a {
+    margin-left: 42px;
+}
+
+.wave {
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+
+
